@@ -1,0 +1,17 @@
+{
+  "name": "sourcemaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.9.5",
+    "gulp": "^3.8.8",
+    "gulp-concat": "^2.4.1",
+    "gulp-sourcemaps": "^1.2.2"
+  }
+}
